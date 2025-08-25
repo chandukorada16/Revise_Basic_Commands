@@ -10,7 +10,7 @@ public class duplicates {
 				if(a[i]==a[j])
 				{
 					System.out.print(a[j]+" ");
-				}
+				}//chandu
 			}
 		}
 	}
